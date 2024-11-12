@@ -6,7 +6,7 @@ Routes:
 - POST / students - Create student
 - GET / students/:id - Get infos fron a specific student
 - PUT / Students/id - Update student
-- DELETE / students/:id - Delete student
+- DELETE / students/:id - Delete student 
 
 Struct Student:
 - Name
